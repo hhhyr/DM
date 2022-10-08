@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[458, 319], [500, 375]], "category": "person"}, {"bbox": [[296, 332], [352, 375]], "category": "person"}, {"bbox": [[65, 70], [448, 239]], "category": "aeroplane"}], "segmentation": 0}

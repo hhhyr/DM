@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 355, "height": 500, "depth": 3}, "classification": [], "detection": [{"bbox": [[76, 111], [261, 262]], "category": "person"}, {"bbox": [[2, 257], [355, 500]], "category": "diningtable"}], "segmentation": 0}

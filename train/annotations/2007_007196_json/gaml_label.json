@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[338, 55], [500, 240]], "category": "tvmonitor"}, {"bbox": [[171, 57], [340, 235]], "category": "tvmonitor"}, {"bbox": [[2, 56], [170, 247]], "category": "tvmonitor"}], "segmentation": 0}

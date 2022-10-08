@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 375, "height": 500, "depth": 3}, "classification": [], "detection": [{"bbox": [[173, 329], [375, 500]], "category": "sheep"}, {"bbox": [[162, 341], [269, 441]], "category": "sheep"}], "segmentation": 0}

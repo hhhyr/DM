@@ -1,0 +1,5 @@
+_background_
+sofa
+chair
+person
+pottedplant

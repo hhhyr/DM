@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 338, "height": 480, "depth": 3}, "classification": [], "detection": [{"bbox": [[16, 157], [132, 249]], "category": "horse"}, {"bbox": [[108, 26], [338, 480]], "category": "horse"}], "segmentation": 0}

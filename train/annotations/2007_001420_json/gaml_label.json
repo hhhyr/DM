@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 332, "depth": 3}, "classification": [], "detection": [{"bbox": [[192, 109], [340, 270]], "category": "horse"}, {"bbox": [[281, 80], [364, 268]], "category": "person"}, {"bbox": [[436, 148], [500, 306]], "category": "pottedplant"}], "segmentation": 0}

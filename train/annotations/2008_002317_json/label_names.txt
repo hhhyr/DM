@@ -1,0 +1,4 @@
+_background_
+dog
+person
+pottedplant

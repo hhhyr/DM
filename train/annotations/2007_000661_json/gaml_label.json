@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[119, 177], [331, 278]], "category": "sofa"}, {"bbox": [[65, 90], [170, 197]], "category": "pottedplant"}, {"bbox": [[133, 159], [179, 197]], "category": "chair"}], "segmentation": 0}

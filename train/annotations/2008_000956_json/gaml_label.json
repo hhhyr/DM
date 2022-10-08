@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 441, "depth": 3}, "classification": [], "detection": [{"bbox": [[55, 1], [457, 441]], "category": "person"}, {"bbox": [[4, 10], [306, 441]], "category": "dog"}, {"bbox": [[146, 28], [457, 438]], "category": "dog"}], "segmentation": 0}

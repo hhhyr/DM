@@ -1,0 +1,5 @@
+_background_
+cat
+person
+diningtable
+bottle

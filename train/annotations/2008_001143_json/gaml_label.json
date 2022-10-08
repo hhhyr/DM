@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 334, "depth": 3}, "classification": [], "detection": [{"bbox": [[293, 161], [337, 212]], "category": "tvmonitor"}, {"bbox": [[42, 203], [181, 334]], "category": "chair"}, {"bbox": [[320, 186], [363, 253]], "category": "tvmonitor"}], "segmentation": 0}

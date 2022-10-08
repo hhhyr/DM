@@ -1,0 +1,5 @@
+_background_
+bicycle
+pottedplant
+bottle
+cat

@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 333, "depth": 3}, "classification": [], "detection": [{"bbox": [[299, 117], [345, 195]], "category": "person"}, {"bbox": [[214, 165], [351, 270]], "category": "motorbike"}], "segmentation": 0}

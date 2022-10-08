@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[106, 96], [192, 188]], "category": "tvmonitor"}, {"bbox": [[221, 80], [295, 157]], "category": "tvmonitor"}, {"bbox": [[355, 109], [475, 171]], "category": "pottedplant"}], "segmentation": 0}

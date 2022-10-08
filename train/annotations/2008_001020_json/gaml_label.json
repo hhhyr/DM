@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[53, 77], [243, 274]], "category": "bird"}, {"bbox": [[208, 1], [366, 146]], "category": "person"}], "segmentation": 0}

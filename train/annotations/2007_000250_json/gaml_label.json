@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[1, 170], [474, 375]], "category": "diningtable"}, {"bbox": [[97, 124], [150, 297]], "category": "bottle"}], "segmentation": 0}

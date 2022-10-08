@@ -1,0 +1,5 @@
+_background_
+person
+tvmonitor
+bottle
+chair

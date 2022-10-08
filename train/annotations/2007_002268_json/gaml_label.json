@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[65, 256], [242, 354]], "category": "dog"}, {"bbox": [[288, 186], [378, 249]], "category": "cat"}, {"bbox": [[6, 188], [493, 375]], "category": "sofa"}], "segmentation": 0}

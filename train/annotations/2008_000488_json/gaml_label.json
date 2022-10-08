@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[307, 287], [486, 347]], "category": "car"}, {"bbox": [[44, 288], [61, 304]], "category": "pottedplant"}, {"bbox": [[25, 284], [37, 306]], "category": "pottedplant"}], "segmentation": 0}

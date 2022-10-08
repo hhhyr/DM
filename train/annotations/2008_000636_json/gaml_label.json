@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 320, "height": 426, "depth": 3}, "classification": [], "detection": [{"bbox": [[62, 156], [213, 426]], "category": "person"}, {"bbox": [[62, 14], [257, 426]], "category": "person"}, {"bbox": [[1, 136], [320, 426]], "category": "sofa"}], "segmentation": 0}

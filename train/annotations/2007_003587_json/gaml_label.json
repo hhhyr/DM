@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 361, "depth": 3}, "classification": [], "detection": [{"bbox": [[72, 40], [496, 267]], "category": "train"}, {"bbox": [[1, 171], [58, 191]], "category": "car"}], "segmentation": 0}

@@ -1,0 +1,5 @@
+_background_
+motorbike
+dog
+person
+chair

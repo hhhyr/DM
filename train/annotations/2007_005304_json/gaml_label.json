@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 400, "depth": 3}, "classification": [], "detection": [{"bbox": [[264, 75], [391, 282]], "category": "bottle"}, {"bbox": [[1, 2], [472, 400]], "category": "person"}], "segmentation": 0}

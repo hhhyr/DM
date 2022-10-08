@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[83, 74], [386, 320]], "category": "cat"}, {"bbox": [[324, 1], [394, 116]], "category": "bottle"}], "segmentation": 0}

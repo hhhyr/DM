@@ -1,0 +1,6 @@
+_background_
+pottedplant
+dog
+chair
+person
+bottle

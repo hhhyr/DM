@@ -1,0 +1,6 @@
+_background_
+bottle
+sofa
+diningtable
+person
+chair

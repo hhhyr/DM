@@ -1,0 +1,6 @@
+_background_
+tvmonitor
+chair
+sofa
+diningtable
+dog

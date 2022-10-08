@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[388, 80], [485, 237]], "category": "pottedplant"}, {"bbox": [[429, 1], [450, 38]], "category": "pottedplant"}, {"bbox": [[103, 1], [137, 43]], "category": "pottedplant"}], "segmentation": 0}

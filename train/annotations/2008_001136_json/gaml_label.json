@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[72, 140], [175, 225]], "category": "boat"}, {"bbox": [[209, 139], [323, 223]], "category": "boat"}, {"bbox": [[321, 133], [452, 224]], "category": "boat"}], "segmentation": 0}

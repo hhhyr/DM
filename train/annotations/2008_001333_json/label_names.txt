@@ -1,0 +1,5 @@
+_background_
+sofa
+person
+chair
+bottle

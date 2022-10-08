@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 320, "height": 240, "depth": 3}, "classification": [], "detection": [{"bbox": [[161, 143], [261, 228]], "category": "sofa"}, {"bbox": [[1, 60], [137, 240]], "category": "sofa"}, {"bbox": [[253, 181], [320, 240]], "category": "pottedplant"}], "segmentation": 0}

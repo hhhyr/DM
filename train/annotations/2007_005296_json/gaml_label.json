@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[170, 262], [500, 374]], "category": "car"}, {"bbox": [[1, 258], [114, 348]], "category": "car"}, {"bbox": [[323, 216], [362, 298]], "category": "person"}], "segmentation": 0}

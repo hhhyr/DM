@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 320, "height": 448, "depth": 3}, "classification": [], "detection": [{"bbox": [[7, 39], [308, 411]], "category": "person"}], "segmentation": 0}

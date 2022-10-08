@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 375, "height": 500, "depth": 3}, "classification": [], "detection": [{"bbox": [[80, 78], [282, 462]], "category": "pottedplant"}, {"bbox": [[1, 337], [375, 500]], "category": "diningtable"}, {"bbox": [[2, 241], [165, 371]], "category": "chair"}], "segmentation": 0}

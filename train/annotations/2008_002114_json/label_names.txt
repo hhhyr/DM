@@ -1,0 +1,4 @@
+_background_
+chair
+diningtable
+person

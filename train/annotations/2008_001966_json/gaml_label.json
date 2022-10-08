@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 333, "height": 500, "depth": 3}, "classification": [], "detection": [{"bbox": [[15, 165], [234, 333]], "category": "bird"}, {"bbox": [[1, 278], [168, 494]], "category": "pottedplant"}], "segmentation": 0}

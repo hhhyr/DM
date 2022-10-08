@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 375, "depth": 3}, "classification": [], "detection": [{"bbox": [[220, 138], [377, 293]], "category": "cat"}, {"bbox": [[35, 68], [446, 375]], "category": "person"}, {"bbox": [[365, 219], [455, 334]], "category": "chair"}], "segmentation": 0}

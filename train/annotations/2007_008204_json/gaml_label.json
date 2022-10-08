@@ -1,0 +1,1 @@
+{"info": {"description": "", "contributor": "", "date_created": ""}, "image": {"file_name": "", "width": 500, "height": 374, "depth": 3}, "classification": [], "detection": [{"bbox": [[199, 247], [242, 367]], "category": "bottle"}, {"bbox": [[314, 114], [499, 329]], "category": "tvmonitor"}, {"bbox": [[143, 145], [266, 336]], "category": "person"}], "segmentation": 0}
